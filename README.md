@@ -50,5 +50,5 @@ The following Witchcraft has been implemented with the following recipes:
 Just drag the .jar file into the plugins folder on your Minecraft server, restart and you're good to go!
 
 ## Author
-I'm Eric de Moor, a starting developer who enjoys to create new things in his spare time. If you enjoyed my work, feel free to drop a donation (and leave a message what you donated for, it's always nice to know what someone enjoyed.) 
+I'm Eric de Moor, a starting developer who enjoys to create new things in his spare time. If you enjoyed my work, feel free to drop a donation (and leave a message what you donated for, it's always nice to know what someone enjoyed.) (paypal.me/McpVoodoo)
 If you have any suggestions for the Plugin or feedback, leave a comment on the spigot website or on the project itself!
