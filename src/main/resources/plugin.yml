@@ -1,0 +1,10 @@
+name: Voodoo
+version: 1.0
+author: EDM Programmming
+main: nl.edm_programming.voodoo.VoodooPlugin
+api-version: 1.15
+commands:
+  voodoo:
+    description: Interact with the Voodoo plugin
+    usage: /voodoo help
+
