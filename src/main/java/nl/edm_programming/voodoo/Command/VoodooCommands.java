@@ -74,6 +74,7 @@ public class VoodooCommands implements CommandExecutor {
         ItemMeta itemMeta = voodoo.getItemMeta();
         if(!hand.getItemMeta().getDisplayName().isEmpty()) itemMeta.setDisplayName(ChatColor.DARK_PURPLE + "Crumble " + hand.getItemMeta().getDisplayName());
         itemMeta.setDisplayName(ChatColor.DARK_PURPLE + "Crumble " + hand.getType().name());
+        itemMeta.setLocalizedName(ChatColor.DARK_PURPLE + "Crumble " + hand.getType().name());
         itemMeta.addItemFlags(ItemFlag.HIDE_ENCHANTS);
         voodoo.setItemMeta(itemMeta);
         voodoo.addUnsafeEnchantment(Enchantment.ARROW_INFINITE,1);
